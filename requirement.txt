@@ -1,2 +1,3 @@
 skcit-learn
 streamlit
+sklearn
