@@ -1,4 +1,4 @@
-skcit-learn==1.5.0
+scikit-learn==1.5.0
 streamlit
 pandas==2.2.3
 numpy== 1.26.4
